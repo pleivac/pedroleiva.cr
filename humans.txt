@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Pedro Leiva -- Designer, Developer and Owner :D -- @pleivac
+
+# THANKS
+
+    To everybody that's work hard to make the internet awesome!
+    Idea by Daryl Thornhill. Visit his awesome web page: http://www.madebydaryl.co.uk/
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Skrollr
